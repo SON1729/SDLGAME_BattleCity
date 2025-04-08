@@ -1,0 +1,307 @@
+# depslib dependency file v1.0
+1739949276 source:c:\users\admin\documents\gamesdl\demo\main.cpp
+	<iostream>
+	<SDL.h>
+
+1743762746 source:c:\users\admin\documents\codeblock\gamesdl\demo\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<algorithm>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"wall.h"
+	"bullet.h"
+	"PlayerTank.h"
+	"enemyTank.h"
+	"game.h"
+	"defs.h"
+
+1743337723 source:c:\users\admin\documents\codeblock\gamesdl\demo\test.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1743761615 c:\users\admin\documents\codeblock\gamesdl\demo\wall.h
+	<SDL.h>
+	"defs.h"
+
+1743589797 source:c:\users\admin\documents\codeblock\gamesdl\demo\wall.cpp
+	"wall.h"
+
+1743584669 c:\users\admin\documents\codeblock\gamesdl\demo\defs.h
+
+1743761615 c:\users\admin\documents\codeblock\gamesdl\demo\bullet.h
+	<SDL.h>
+	"defs.h"
+
+1743587229 source:c:\users\admin\documents\codeblock\gamesdl\demo\bullet.cpp
+	"bullet.h"
+
+1743603940 source:c:\users\admin\documents\codeblock\gamesdl\demo\playertank.cpp
+	"PlayerTank.h"
+
+1743761615 c:\users\admin\documents\codeblock\gamesdl\demo\playertank.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<vector>
+	<algorithm>
+	"bullet.h"
+	"wall.h"
+	"defs.h"
+
+1743761615 c:\users\admin\documents\codeblock\gamesdl\demo\enemytank.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<vector>
+	<algorithm>
+	<cmath>
+	"bullet.h"
+	"wall.h"
+	"defs.h"
+	"PlayerTank.h"
+
+1743605964 source:c:\users\admin\documents\codeblock\gamesdl\demo\enemytank.cpp
+	"enemyTank.h"
+
+1743762175 c:\users\admin\documents\codeblock\gamesdl\demo\game.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<vector>
+	<algorithm>
+	<cmath>
+	"bullet.h"
+	"wall.h"
+	"defs.h"
+	"PlayerTank.h"
+	"enemyTank.h"
+
+1743762687 source:c:\users\admin\documents\codeblock\gamesdl\demo\game.cpp
+	"game.h"
+
+1744080401 source:c:\users\admin\documents\codeblock\gamesdl\demo - copy\bullet.cpp
+	"bullet.h"
+
+1744038117 c:\users\admin\documents\codeblock\gamesdl\demo - copy\bullet.h
+	<SDL.h>
+	"defs.h"
+
+1744038117 c:\users\admin\documents\codeblock\gamesdl\demo - copy\defs.h
+
+1744040232 source:c:\users\admin\documents\codeblock\gamesdl\demo - copy\enemytank.cpp
+	"enemyTank.h"
+
+1744040232 c:\users\admin\documents\codeblock\gamesdl\demo - copy\enemytank.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<vector>
+	<algorithm>
+	<cmath>
+	"bullet.h"
+	"wall.h"
+	"defs.h"
+	"PlayerTank.h"
+
+1744080366 c:\users\admin\documents\codeblock\gamesdl\demo - copy\wall.h
+	<SDL.h>
+	"defs.h"
+
+1744040232 c:\users\admin\documents\codeblock\gamesdl\demo - copy\playertank.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<vector>
+	<algorithm>
+	"bullet.h"
+	"wall.h"
+	"defs.h"
+
+1744083951 source:c:\users\admin\documents\codeblock\gamesdl\demo - copy\game.cpp
+	"game.h"
+
+1744042939 c:\users\admin\documents\codeblock\gamesdl\demo - copy\game.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<vector>
+	<algorithm>
+	<cmath>
+	"bullet.h"
+	"wall.h"
+	"defs.h"
+	"PlayerTank.h"
+	"enemyTank.h"
+
+1743762746 source:c:\users\admin\documents\codeblock\gamesdl\demo - copy\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<algorithm>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"wall.h"
+	"bullet.h"
+	"PlayerTank.h"
+	"enemyTank.h"
+	"game.h"
+	"defs.h"
+
+1744040232 source:c:\users\admin\documents\codeblock\gamesdl\demo - copy\playertank.cpp
+	"PlayerTank.h"
+
+1744038117 source:c:\users\admin\documents\codeblock\gamesdl\demo - copy\wall.cpp
+	"wall.h"
+
+1744080401 source:c:\users\admin\documents\codeblock\gamesdl\battlecity\bullet.cpp
+	"bullet.h"
+
+1744038117 c:\users\admin\documents\codeblock\gamesdl\battlecity\bullet.h
+	<SDL.h>
+	"defs.h"
+
+1744038117 c:\users\admin\documents\codeblock\gamesdl\battlecity\defs.h
+
+1744040232 source:c:\users\admin\documents\codeblock\gamesdl\battlecity\enemytank.cpp
+	"enemyTank.h"
+
+1744040232 c:\users\admin\documents\codeblock\gamesdl\battlecity\enemytank.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<vector>
+	<algorithm>
+	<cmath>
+	"bullet.h"
+	"wall.h"
+	"defs.h"
+	"PlayerTank.h"
+
+1744080366 c:\users\admin\documents\codeblock\gamesdl\battlecity\wall.h
+	<SDL.h>
+	"defs.h"
+
+1744040232 c:\users\admin\documents\codeblock\gamesdl\battlecity\playertank.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<vector>
+	<algorithm>
+	"bullet.h"
+	"wall.h"
+	"defs.h"
+
+1744084086 source:c:\users\admin\documents\codeblock\gamesdl\battlecity\game.cpp
+	"game.h"
+
+1744042939 c:\users\admin\documents\codeblock\gamesdl\battlecity\game.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<vector>
+	<algorithm>
+	<cmath>
+	"bullet.h"
+	"wall.h"
+	"defs.h"
+	"PlayerTank.h"
+	"enemyTank.h"
+
+1743762746 source:c:\users\admin\documents\codeblock\gamesdl\battlecity\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<algorithm>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"wall.h"
+	"bullet.h"
+	"PlayerTank.h"
+	"enemyTank.h"
+	"game.h"
+	"defs.h"
+
+1744040232 source:c:\users\admin\documents\codeblock\gamesdl\battlecity\playertank.cpp
+	"PlayerTank.h"
+
+1744038117 source:c:\users\admin\documents\codeblock\gamesdl\battlecity\wall.cpp
+	"wall.h"
+
+1744080401 source:c:\users\admin\documents\codeblock\game\bullet.cpp
+	"bullet.h"
+
+1744038117 c:\users\admin\documents\codeblock\game\bullet.h
+	<SDL.h>
+	"defs.h"
+
+1744038117 c:\users\admin\documents\codeblock\game\defs.h
+
+1744040232 source:c:\users\admin\documents\codeblock\game\enemytank.cpp
+	"enemyTank.h"
+
+1744040232 c:\users\admin\documents\codeblock\game\enemytank.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<vector>
+	<algorithm>
+	<cmath>
+	"bullet.h"
+	"wall.h"
+	"defs.h"
+	"PlayerTank.h"
+
+1744080366 c:\users\admin\documents\codeblock\game\wall.h
+	<SDL.h>
+	"defs.h"
+
+1744040232 c:\users\admin\documents\codeblock\game\playertank.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<vector>
+	<algorithm>
+	"bullet.h"
+	"wall.h"
+	"defs.h"
+
+1743762746 source:c:\users\admin\documents\codeblock\game\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<algorithm>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"wall.h"
+	"bullet.h"
+	"PlayerTank.h"
+	"enemyTank.h"
+	"game.h"
+	"defs.h"
+
+1744042939 c:\users\admin\documents\codeblock\game\game.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<vector>
+	<algorithm>
+	<cmath>
+	"bullet.h"
+	"wall.h"
+	"defs.h"
+	"PlayerTank.h"
+	"enemyTank.h"
+
+1744040232 source:c:\users\admin\documents\codeblock\game\playertank.cpp
+	"PlayerTank.h"
+
+1744038117 source:c:\users\admin\documents\codeblock\game\wall.cpp
+	"wall.h"
+
